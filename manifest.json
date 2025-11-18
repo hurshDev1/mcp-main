@@ -1,0 +1,16 @@
+{
+  "name": "mcp-main",
+  "version": "1.0.0",
+  "description": "Minimal MCP server",
+  "tools": [
+    {
+      "name": "hello",
+      "description": "Returns a greeting"
+    },
+    {
+      "name": "sum",
+      "description": "Adds a + b as query parameters"
+    }
+  ],
+  "entrypoint": "/api"
+}

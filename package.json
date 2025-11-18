@@ -1,13 +1,9 @@
 {
   "name": "mcp-main",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "vercel dev"
   },
-  "dependencies": {
-    "express": "^4.19.0",
-    "cors": "^2.8.5"
-  }
+  "dependencies": {}
 }
